@@ -6,7 +6,7 @@ import {Routes, Route} from "react-router-dom";
 import SignUp from "./components/pages/SignUp";
 import Home from "./components/pages/Home";
 import Footer from "./components/footer";
-
+// import './css';
 function App() {
   return(
     <Router>
